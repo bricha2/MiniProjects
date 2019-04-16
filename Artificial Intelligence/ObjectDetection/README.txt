@@ -1,3 +1,5 @@
+In this project, I created an algorithm to identify red cars. In addition to analysis, I wrote a short paper detailing the results that I found.
+
 python run.py 
  -- This will print the resulting list of coordinates found
  -- It calls train.py, which returns parameters that are given to test.py's function which returns the foundList
